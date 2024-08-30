@@ -1,2 +1,3 @@
 this is first file
 second line of text
+third line added to test 
